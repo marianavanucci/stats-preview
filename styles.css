@@ -9,6 +9,7 @@ body{
     align-items: center;
     /* justify-content:center; */
     max-width: 375px;
+    color: white;
 }
 
 .left{
