@@ -1,5 +1,8 @@
 body{
     background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container{
@@ -13,10 +16,9 @@ body{
 }
 
 .left{
-    background-color: red;
+    background-color:rgb(124, 31, 187);
     justify-content: center;
     padding-top: 30px;
-
 }
 
 img{
@@ -24,6 +26,7 @@ img{
     height: auto;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    mix-blend-mode:soft-light;
 }
 
 /* .left image{
@@ -31,7 +34,7 @@ img{
     height: auto;
 } */
 .right{
-    background-color: royalblue;
+    background-color: hsl(244, 38%, 16%);
     justify-content: center;
     align-items: center;
     font-family: 'Inter', sans-serif;
