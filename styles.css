@@ -33,6 +33,8 @@ img{
     align-items: center;
     font-family: 'Inter', sans-serif;
     max-width: 375px;
+    padding: 40px;
+    text-align: center;
 }
 
 .right header{
