@@ -41,11 +41,19 @@ img{
     max-width: 375px;
     padding: 40px;
     text-align: center;
-    font-size: 125%;
 }
 
-.right header{
+header{
     align-items: center;
     justify-content: center;
     font-family: 'Inter', sans-serif;
+    font-size: 185%;
+}
+
+.p paragraph{
+    font-size: 109%;
+}
+
+span{
+color: rgb(124, 31, 187);
 }
