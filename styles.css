@@ -7,7 +7,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* justify-content:center; */
+    justify-content:center;
     max-width: 375px;
     color: white;
 }
@@ -15,12 +15,15 @@ body{
 .left{
     background-color: red;
     justify-content: center;
+    padding-top: 30px;
 
 }
 
 img{
-    width: 300px;
+    width: 375px;
     height: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
 /* .left image{
