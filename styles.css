@@ -29,10 +29,6 @@ img{
     mix-blend-mode:soft-light;
 }
 
-/* .left image{
-    width: 100px;
-    height: auto;
-} */
 .right{
     background-color: hsl(244, 38%, 16%);
     justify-content: center;
@@ -56,4 +52,14 @@ main{
 
 span{
 color: rgb(124, 31, 187);
+}
+
+.counter{
+    font-size: 200%;
+    margin-bottom: 0;
+}
+
+.type{
+    text-transform: uppercase;
+    padding: 0;
 }
